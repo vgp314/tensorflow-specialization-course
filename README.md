@@ -10,11 +10,11 @@ Introdution to Tensorflow paradigm
 
 Introduction to Computer Vision. This week you’re going to take that to the next level by beginning to solve problems of computer vision with just a few lines of code! 
 
-#Week 3
+# Week 3
 
 Enhancing Vision with Convolutional Neural Networks
 
-#Week 4
+# Week 4
 
 Using Real-world Images. Handling complex images.
 
