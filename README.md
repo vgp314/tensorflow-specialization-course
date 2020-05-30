@@ -1,5 +1,6 @@
-# tensorflow-specialization-couse1
-Course 1 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning by deeplearning.ai
+# Tensorflow-specialization
+
+- Course 1 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning by deeplearning.ai
 
 
 # Week 1
