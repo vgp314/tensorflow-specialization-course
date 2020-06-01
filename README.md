@@ -1,21 +1,21 @@
-# Tensorflow-specialization
+# Tensorflow Specialization
 
 - Course 1 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning by deeplearning.ai
 
-
-# Week 1
+# Course 1 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
+## Week 1
 
 Introdution to Tensorflow paradigm
 
-# Week 2
+## Week 2
 
 Introduction to Computer Vision. This week you’re going to take that to the next level by beginning to solve problems of computer vision with just a few lines of code! 
 
-# Week 3
+## Week 3
 
 Enhancing Vision with Convolutional Neural Networks
 
-# Week 4
+## Week 4
 
 Using Real-world Images. Handling complex images.
 
