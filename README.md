@@ -19,6 +19,13 @@ Enhancing Vision with Convolutional Neural Networks
 
 Using Real-world Images. Handling complex images.
 
+# Course 2 - Convolution Neural Networks in TensorFlow
+
+## Week 1
+## Week 2
+## Week 3
+## Week 4
+
 
 
 
