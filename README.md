@@ -22,7 +22,11 @@ Using Real-world Images. Handling complex images.
 # Course 2 - Convolution Neural Networks in TensorFlow
 
 ## Week 1
+
+Using Real-world Images. Handling complex images. 
 ## Week 2
+Improving Model Training Accuracy using Image Augmentation
+
 ## Week 3
 ## Week 4
 
